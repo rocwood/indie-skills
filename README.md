@@ -5,14 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Indie Skills](https://img.shields.io/badge/indie-skills-87CEEB)](https://github.com/rocwood/indie-skills)
 
-
-- **精巧** — 一个技能只做一件事，把它做到位
-- **实用** — 覆盖创作与工作中真正高频的场景
-- **干净** — 没有多余的提示词，没有多余的依赖
-
-
----
-
 ## 🧰 技能列表
 
 - `chat-export` **对话导出** — 把当前 AI 对话导出为结构化 Markdown，保留完整上下文
@@ -24,13 +16,11 @@
 
 ## 🚀 如何使用
 
-### 1. 命令安装
+### 1. 命令行安装
 
 ```bash
 npx skills add rocwood/indie-skills
 ```
-
-选你想要的技能，一键装好。
 
 ### 2. 手动复制
 
